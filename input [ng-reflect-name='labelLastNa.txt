@@ -1,0 +1,7 @@
+input [ng-reflect-name='labelLastName'] 
+input [ng-reflect-name='labelAddress'] 
+input [ng-reflect-name='labelEmail'] 
+input [ng-reflect-name='labelRole'] 
+input [ng-reflect-name='labelPhone'] 
+input [ng-reflect-name='labelFirstName'] 
+input [ng-reflect-name='labelCompanyName'] 
