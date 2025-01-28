@@ -7,8 +7,8 @@ import openpyxl
 import time
 
 # Configurações
-excel_path = r"D:\OneDrive\SANTANDER\RPA\challenge.xlsx"
-edge_driver_path = r"D:\OneDrive\SANTANDER\RPA\edgedriver_win64\msedgedriver.exe"
+excel_path = r"D:\OneDrive\RPA\challenge.xlsx"
+edge_driver_path = r"D:\OneDrive\RPA\edgedriver_win64\msedgedriver.exe"
 start_button_xpath = '//button[text()="Start"]'  # XPath do botão Start
 
 # Inicializar o WebDriver do Edge
